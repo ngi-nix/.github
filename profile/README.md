@@ -8,4 +8,3 @@ initiative through the [NLNet Foundation](https://nlnet.nl/) and the
 [NixOS Foundation](https://github.com/NixOS/foundation).
 
 Learn more about Nix on [nix.dev](https://nix.dev/).
-Follow [updates on the NixOS Discourse](https://discourse.nixos.org/c/events/summer-of-nix/45).
